@@ -1,0 +1,9 @@
+section,name,metric,value,details
+3.2,v1,val_loss,4.922,"{""tag"": ""baseline"", ""val_bpc"": 2.1309, ""n_params"": 2856000, ""best_iter"": 9500, ""vocab_size"": 8000, ""context_len"": 64, ""n_layers"": 4, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v2,val_loss,4.451,"{""tag"": ""vocab4000"", ""val_bpc"": 2.2218, ""n_params"": 1828000, ""best_iter"": 9999, ""vocab_size"": 4000, ""context_len"": 64, ""n_layers"": 4, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v3,val_loss,4.8401,"{""tag"": ""ctx128"", ""val_bpc"": 2.0954, ""n_params"": 2864192, ""best_iter"": 9999, ""vocab_size"": 8000, ""context_len"": 128, ""n_layers"": 4, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v4,val_loss,4.7941,"{""tag"": ""layers6"", ""val_bpc"": 2.0755, ""n_params"": 3251776, ""best_iter"": 9999, ""vocab_size"": 8000, ""context_len"": 64, ""n_layers"": 6, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v1,val_loss,4.922,"{""tag"": ""baseline"", ""val_bpc"": 2.1309, ""n_params"": 2856000, ""best_iter"": 9500, ""vocab_size"": 8000, ""context_len"": 64, ""n_layers"": 4, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v2,val_loss,4.451,"{""tag"": ""vocab4000"", ""val_bpc"": 2.2218, ""n_params"": 1828000, ""best_iter"": 9999, ""vocab_size"": 4000, ""context_len"": 64, ""n_layers"": 4, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v3,val_loss,4.8401,"{""tag"": ""ctx128"", ""val_bpc"": 2.0954, ""n_params"": 2864192, ""best_iter"": 9999, ""vocab_size"": 8000, ""context_len"": 128, ""n_layers"": 4, ""n_heads"": 4, ""max_iters"": 10000}"
+3.2,v4,val_loss,4.7941,"{""tag"": ""layers6"", ""val_bpc"": 2.0755, ""n_params"": 3251776, ""best_iter"": 9999, ""vocab_size"": 8000, ""context_len"": 64, ""n_layers"": 6, ""n_heads"": 4, ""max_iters"": 10000}"
